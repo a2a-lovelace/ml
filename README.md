@@ -12,3 +12,6 @@
 * Генерация_Чебурашки.ipynb (не хватает памяти для sd 3.5, на 1.5 результат +- сойдет)
 
 ![Cheburashka Result](Cheburashka.png)
+
+error: ```There was an error rendering your Notebook: the 'state' key is missing from 'metadata.widgets'. Add 'state' to each, or remove 'metadata.widgets'.
+Using nbformat v5.10.4 and nbconvert v7.16.6``` (файл ipynb пришлось подрезать widgets, но выходные данные сохранились)
