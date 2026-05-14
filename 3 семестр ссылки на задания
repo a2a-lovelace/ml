@@ -1,0 +1,102 @@
+1 ЛАб. На выбор:
+
+https://habr.com/ru/companies/ods/articles/322626/
+
+
+1. https://www.kaggle.com/code/nadezhda2019/pandas-test
+
+2. https://www.kaggle.com/code/nadezhda2019/titanic-pandas
+
+3. https://www.kaggle.com/nadezhda2019/telecom-pandas24/
+
+
+2 Лаб.
+
+ОТкрытый курс по анализу данных
+
+https://habr.com/ru/companies/ods/articles/323210/
+
+1. пассажиры Титаника, https://www.kaggle.com/code/nadezhda2019/seaborn-titanic =========================================131 МКО, 141Пмо
+
+2. публикации на Хабре, https://www.kaggle.com/code/nadezhda2019/seaborn-test
+
+3. Телеком : примеры + https://www.kaggle.com/nadezhda2019/telecom-pandas24/
+
+====================================================================================
+
+3 Лаб. https://habr.com/ru/companies/ods/articles/322534/
+
+Задача по классификации:
+0. Кодирование и обработка пропусков,
+
+1. Дерево решений,
+
+2. Метод ближайших соседей с предварительным масштабированием, Настройка весов , метрика... 
+
+3. Настройка параметров на сетке,
+
+4. Случайный лес,
+
+5. Пайплайн : масштабирование + МБС, 70%
+
+
+2 варианта:
+1. 
+Тест, для тех, ЭТОТ ТЕСТ, кто не делал, https://www.kaggle.com/code/nadezhda2019/classification-1 
+
+ПРОСТОЙ ВАРИАНТ https://www.kaggle.com/code/nadezhda2019/start-class/titanic-train
+
+
+2. Участие в соревновании и >70% точности, kaggle, Тitanic spaceship
+https://www.kaggle.com/competitions/spaceship-titanic
+https://www.kaggle.com/code/nadezhda2019/spaceship-test блокнот с описанием на рус. яз, что происходит
+
+ 
+4. Кластеризация. 
+
+4.1. https://www.kaggle.com/code/nadezhda2019/cluster-test
+1 задание -- это пример,  вина 
+или 
+2 задание -- это тест (САмсунг)
+
+4.2. Альтернативный вариант, эксперименты :
+
+https://habr.com/ru/companies/ods/articles/325654/
+Точки со сложной формой кластеров ====> методы и метрики
+
+
+4.3. Кластеризация (уровень стресса + качество воды)
+
+
+5. Регрессия 
+
+https://www.kaggle.com/code/nadezhda2019/regression-test1
+
+6.
+=============================Ансамбли ===============================
+https://www.kaggle.com/code/nadezhda2019/intermediate-ml
+
+7. 
+Временные ряды
+
+ https://www.kaggle.com/code/nadezhda2019/timeseries-test
+
+https://habr.com/ru/companies/ods/articles/327242/
+
+https://www.kaggle.com/competitions/store-sales-time-series-forecasting
+
+ARIMA,...
+https://www.kaggle.com/learn/time-series
+
+
+8. Ассоциативные правила
+
+https://www.kaggle.com/code/nadezhda2019/association-rules
+
+9. Логистическая регрессия
+
+https://www.kaggle.com/code/nadezhda2019/linear-models
+
+или
+
+9. https://www.kaggle.com/learn/time-series и https://www.kaggle.com/competitions/store-sales-time-series-forecasting
